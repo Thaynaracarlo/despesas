@@ -4,27 +4,28 @@
 
 ## 📋 Sobre o Despesas
 
-O projeto Despesas foi composto pelas seguinte matéria:
+O projeto Despesas foi composto pela seguinte matéria:
 
 * Fundamentos de Desenvolvimento Web
+Trouxemos uma lista de casa com gastos mensais para criação da lista de gastos, nesse processo 
+ultilizamos o VScode.
 
 ## 📄 Descrição do projeto
-
 A atividade de Despesas foi criada durante as aulas de Fundamentos de desenvolvimento web para ter controle individual dos gastos mensais. Nessas aulas, o professor trabalhou css, html.
 
-🔧 Tecnologias, ferramentas, e linguagens usadas
+ ## 🛠️ Tecnologias  
+
+* HTML
+
+* CSS
+
+### 🔧 Ferramentas
 
 * VSCODE
 
-* html
+* GitHub
 
-* css
-
-* img
-
-* head
-
-* GITHUB
+### 📁 linguagens usadas
 
 * git clone
 
